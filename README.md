@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,sql,html,css,js,git,github,vscode&theme=light" alt="Technology skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode&theme=light" alt="Technology skills" />
 </p>
 
 **Core skills:** Python · C · SQL · Problem Solving
